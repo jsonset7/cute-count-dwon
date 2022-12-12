@@ -1,0 +1,31 @@
+html {
+  background: url(../assets/images/sumikko-gurashi-reading-book-i3w1kr4rothg9prr.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.new-year-clock {
+  top: 350px;
+  right: -69px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  color:white
+}
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  color:rgb(0, 0, 0)
+}
+
+#footer a {
+  text-decoration: none;
+color: black;
+}
